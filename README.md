@@ -31,7 +31,7 @@
 | [![Owner](https://i.ibb.co/Kx86CSc4/3676.jpg)](https://github.com/sadiyamin/Alexa/) | [![MALIK ZAIN](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/ladla-malik/MeHaR-Waleed-MD)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### If there is an issue in this tool, report there [Laڈla_Maلik](https://api.whatsapp.com/send?phone=923435611415&text=𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐/I_Picker/issues)
+### If there is an issue in this bot,then contact there 👇[Laڈla_Maلik](https://api.whatsapp.com/send?phone=923435611415&text=𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐/I_Picker/issues)
 
 <p style="color:purple"><b>Connect With Us:</b></p>
  
