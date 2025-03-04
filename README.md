@@ -5,11 +5,6 @@
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-<p align="left">
-<a href='https://dark-team-md-pair-a985f5501079.herokuapp.com/' target="_blank">
-  <img alt='Pairing Code 2' src='https://img.shields.io/badge/Get%20Pairing%20Code%202-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
